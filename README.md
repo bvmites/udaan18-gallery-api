@@ -1,2 +1,2 @@
-# udaan18-gallery-api
-Builds an updated json file for your flickr profile
+# Udaan18 Gallery API
+Builds an updated json file for any flickr profile
